@@ -344,7 +344,7 @@
 
 |Mission |Repository |Pull Request |Pair | Reviewer |
 |:------:|:---------:|:-----------:|:-----------:|:-----------:|
-|쥬스메이커 |[project-manager/step1](https://github.com/derrickkim0109/ios-project-manager/tree/step-01) |[Pull Request](https://github.com/yagom-academy/ios-project-manager/pull/177) ||[웨더](https://github.com/SungPyo)|
+|프로젝트 관리 앱 |[project-manager/step1](https://github.com/derrickkim0109/ios-project-manager/tree/step-01) |[Pull Request](https://github.com/yagom-academy/ios-project-manager/pull/177) ||[웨더](https://github.com/SungPyo)|
 | |[project-manager/step2](https://github.com/derrickkim0109/ios-project-manager/tree/step-02) |[Pull Request](https://github.com/yagom-academy/ios-project-manager/pull/196) ||[웨더](https://github.com/SungPyo)|
 | |[project-manager/step3](https://github.com/derrickkim0109/ios-project-manager/tree/step-03) |[Pull Request](https://github.com/yagom-academy/ios-project-manager/pull/206) ||[웨더](https://github.com/SungPyo) |
 
