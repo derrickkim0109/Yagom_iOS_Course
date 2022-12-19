@@ -14,22 +14,6 @@
 
 - `2022-04-12 ~ 2022-04-15`
 
-### **프로젝트 수행 중 핵심 경험**
-- [x] 순서도 익히기
-- [x] 함수 단위 고민하기
-- [x] Git의 기본 사용(add, commit, push, pull)
-- [x] GitHub의 원격 공동 저장소 활용
-- [x] Git 저장소의 충돌 해결
-- [x] Git Branch의 이해
-- [x] GitHub에서 Pull Request 전송
-- [x] Swift API Design Guidelines 읽어보기
-- [x] Swift Set의 이해와 활용
-- [x] Swift의 Optional 안전하게 처리하기
-- [x] Git의 커밋단위 고민하기
-- [x] Git 커밋 로그 형식 고민하기
-- [x] 스위프트 코딩 컨벤션 고민하기
-- [x] 동료와 협업자세 고민하기
-
 ### **진행 미션**
 
 |Mission |Repository |Pull Request |Pair | Reviewer |
@@ -52,17 +36,6 @@
 ### **기간**
 
 - `2022-04-18 ~ 2022-04-22`
- 
-### **프로젝트 수행 중 핵심 경험**
-- [x] Swift의 Optional 안전하게 처리하기
-- [x] if와 switch 조건문의 차이와 장단점 비교해보기
-- [x] 순환함수(재귀함수)와 반복문의 장단점 비교해보기
-- [x] 함수가 한 가지 일만 하도록 기능 분리하기
-- [x] guard 구문의 이해와 활용
-- [x] Git의 커밋단위 고민하기
-- [x] Git 커밋 로그 형식 고민하기
-- [x] 스위프트 코딩 컨벤션 고민하기
-- [x] 동료와 협업자세 고민하기
 
 ### **진행 미션**
 
@@ -86,22 +59,6 @@
 ### **기간**
 
 - `2022-04-25 ~ 2022-05-13`
-
-### **프로젝트 수행 중 핵심 경험**
-- [x] Swift API Design Guide에 따른 이름짓기
-- [x] 소스코드에 불필요한 코드 및 코멘트 남기지 않기
-- [x] 메서드의 기능단위 분리
-- [x] 요구사항에 따른 타입의 정의
-- [x] 타입의 캡슐화/은닉화
-- [x] 상황에 알맞은 상수/변수의 올바른 선택
-- [x] 내비게이션 바 및 바 버튼 아이템의 활용
-- [x] 얼럿 컨트롤러 활용
-- [x] Modality의 활용
-- [x] 내비게이션 바 및 바 버튼 아이템의 활용
-- [x] Stepper 활용
-- [x] Modality의 활용
-- [x] 화면 사이의 데이터 공유
-- [x] 오토레이아웃 시작하기
 
 ### **진행 미션**
 
@@ -130,24 +87,6 @@
 
 - `2022-05-16 ~ 2022-05-27`
 - `2022-05-30 ~ 2022-06-03`
-
-### **프로젝트 수행 중 핵심 경험**
-- [x] TDD 시작하기
-- [x] 기존의 프로젝트에 Test Target 추가
-- [x] Queue 자료구조의 이해와 구현
-- [x] List 자료구조 직접 구현해보기(선택)
-- [x] 리스트를 활용하여 Queue 구현(선택)
-- [x] UML을 기반으로 한 코드구현
-- [x] 숫자와 연산자 입력에 큐 활용
-- [x] TDD를 기반으로 코드 작성하기(선택)
-- [x] IBOutlet / IBAction의 활용
-- [x] 스택뷰의 활용
-- [x] 스크롤뷰의 활용
-- [x] UML을 기반으로 한 코드병합
-- [x] 스토리보드 병합
-- [x] 기존 코드의 리팩터링
-- [x] 단위 테스트를 통해 리팩터링 과정의 코드 오류를 최소화
-- [x] 제네릭을 활용하여 범용적인 타입 구현(선택)
 
 ### **진행 미션**
 
@@ -180,31 +119,6 @@
 
 - `2022-06-13 ~ 2022-06-24`
 
-### **프로젝트 수행 중 핵심 경험**
-
-- [x] Codable을 채택하여 JSON 데이터와 매칭할 모델 타입 구현
-- [x] 스네이크 케이스 또는 축약형인 JSON 키 값을 스위프트의 네이밍에 맞게 변환
-- [x] 테이블뷰의 Delegate와 Data Source의 역할의 이해
-- [x] 테이블뷰의 셀의 재사용 이해
-- [x] 테이블뷰의 전반적인 동작 방식의 이해
-- [x] 주어진 JSON 데이터를 파싱하여 테이블뷰에 표시
-- [x] 내비게이션 컨트롤러를 활용한 화면 전환
-- [x] 뷰 컨트롤러 사이의 데이터 전달
-- [x] Codable을 채택하여 JSON 데이터와 매칭할 모델 타입 구현
-- [x] 스네이크 케이스 또는 축약형인 JSON 키 값을 스위프트의 네이밍에 맞게 변환
-- [x] 테이블뷰의 Delegate와 Data Source의 역할의 이해
-- [x] 테이블뷰의 셀의 재사용 이해
-- [x] 테이블뷰의 전반적인 동작 방식의 이해
-- [x] 주어진 JSON 데이터를 파싱하여 테이블뷰에 표시
-- [x] 내비게이션 컨트롤러를 활용한 화면 전환
-- [x] 뷰 컨트롤러 사이의 데이터 전달
-- [x] 오토 레이아웃을 적용하여 다양한 기기에 대응
-- [x] Word Wrapping / Line Wrapping / Line Break 방식의 이해
-- [x] 접근성(Accessibility)의 개념과 필요성 이해
-- [x] Dynamic Types를 통해 텍스트 접근성 향상
-- [x] Codable을 채택하여 JSON 데이터와 매칭할 모델 타입 구현
-- [x] 스네이크 케이스 또는 축약형인 JSON 키 값을 스위프트의 네이밍에 맞게 변환
-
 ### **진행 미션**
 
 |Mission |Repository |Pull Request |Pair | Reviewer |
@@ -223,24 +137,6 @@
 
 - `2022-06-27 ~ 2022-07-08`
 
-### **프로젝트 수행 중 핵심 경험**
-- [x] Linked-list 자료구조의 이해 및 구현
-- [x] Queue 자료구조의 이해 및 구현
-- [x] Generics 개념이해 및 적용
-- [x] Queue의 활용
-- [x] 타입 추상화 및 일반화
-- [x] 동기(Synchronous)와 비동기(Asynchronous)의 이해
-- [x] 동시성 프로그래밍 개념의 이해
-- [x] 동시성 프로그래밍을 위한 기반기술(GCD, Operation) 등의 이해
-- [x] 스레드(Thread) 개념에 대한 이해
-- [x] GCD를 활용한 동시성 프로그래밍 구현
-- [x] 동기(Synchronous)와 비동기(Asynchronous) 동작의 구현 및 적용
-- [x] 동시성 프로그래밍 중 UI 요소 업데이트의 주의점 이해
-- [x] 커스텀 뷰 구현
-- [x] 스택뷰 활용
-- [x] Xcode 프로젝트 관리 구조의 이해와 응용
-
-
 ### **진행 미션**
 
 |Mission |Repository |Pull Request |Pair | Reviewer |
@@ -248,6 +144,7 @@
 |은행 창구 매니저 |[bank-manager/step1](https://github.com/derrickkim0109/ios-bank-manager/tree/step-01) |[Pull Request](https://github.com/yagom-academy/ios-bank-manager/pull/185) |[민쏜](https://github.com/minsson) |[쿠마](https://github.com/leejun6694)  |
 | |[bank-manager/step2](https://github.com/derrickkim0109/ios-bank-manager/tree/step-02) |[Pull Request](https://github.com/yagom-academy/ios-bank-manager/pull/200) |[민쏜](https://github.com/minsson) |[쿠마](https://github.com/leejun6694)|
 | |[bank-manager/step3](https://github.com/derrickkim0109/ios-bank-manager/tree/step-03) |[Pull Request](https://github.com/yagom-academy/ios-bank-manager/pull/211) |[민쏜](https://github.com/minsson)  |[쿠마](https://github.com/leejun6694) |
+| |[bank-manager/UI](https://github.com/derrickkim0109/ios-bank-manager/tree/step-04_leftover_derrick) | | |
 
 ### **블로그 포스팅**
 
@@ -264,20 +161,6 @@
 ### **기간**
 
 - `2022-07-11 ~ 2022-07-22`
-
-### **프로젝트 수행 중 핵심 경험**
-- [x] 파싱한 JSON 데이터와 매핑할 모델 설계
-- [x] URL Session을 활용한 서버와의 통신
-- [x] CodingKeys 프로토콜의 활용
-- [x] Safe Area을 고려한 오토 레이아웃 구현
-- [x] Collection View의 활용
-- [x] Mordern Collection View 활용
-- [x] multipart/form-data의 구조 파악
-- [x] URLSession을 활용한 multipart/form-data 요청 전송
-- [x] 사용자 친화적인 UI/UX 구현 (적절한 입력 컴포넌트 사용, 알맞은 키보드 타입 지정)
-- [x] UIAlertController 액션의 completion handler 활용
-- [x] UIAlertController의 textFields 활용
-- [x] UICollectionView 를 통한 좌우 스크롤 기능 구현
 
 ### **진행 미션**
 
@@ -299,21 +182,6 @@
 
 - `2022-08-16 ~ 2022-09-02`
 
-### **프로젝트 수행 중 핵심 경험**
-- [x] Date Formatter의 지역 및 길이별 표현의 활용
-- [x] Text View의 활용
-- [x] 코어데이터 모델 생성
-- [x] 코어데이터 모델 및 DB 마이그레이션
-- [x] 테이블뷰에서 스와이프를 통한 삭제기능 구현
-- [x] Text View Delegate의 활용
-- [x] Open API의 활용
-- [x] Core Location의 활용
-- [x] Attributed String 활용
-- [x] Serach Controller 활용
-- [ ] 라이트모드/다크모드 구현
-- [ ] 접근성 구현
-- [ ] 지역화 구현
-
 ### **진행 미션**
 
 |Mission |Repository |Pull Request |Pair | Reviewer |
@@ -332,13 +200,6 @@
 
 - `2022-09-04 ~ 2022-09-15`
 - `2022-09-19 ~ 2022-09-30`
-
-### **프로젝트 수행 중 핵심 경험**
-- [x] UIKit / SwiftUI / RxCocoa 등 선택한 기술을 통한 UI 구현
-- [x] 다양한 기술 중 목적에 맞는 기술선택
-- [x] Word wrapping 방식의 이해
-- [x] 리스트에서 스와이프를 통한 삭제 구현
-- [x] Date Picker를 통한 날짜입력
 
 ### **진행 미션**
 
