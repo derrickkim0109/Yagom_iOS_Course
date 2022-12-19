@@ -27,8 +27,6 @@
 - [CollectionTypes](https://www.notion.so/308932c1a17e4495bfaee07404ccb677)
 - [Swift Language Guide - Optionals, nil, Optional Binding](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html)
 
----
-
 <br>
 
 ## **2nd Project: 묵찌빠 게임**
@@ -49,8 +47,6 @@
 - [Swift Language Guide - Enumerations](https://quick-face-098.notion.site/Enumerations-8874ce1044b44f7fbfe3d69565e4572d)
 - [Swift Language Guide - Properties](https://quick-face-098.notion.site/Properties-507efb6737204c50ae91456e7bff9748)
 - [Swift Language Guide - Methods](https://quick-face-098.notion.site/Methods-b52ed9c34167446c9e87429fa5c96223)
-
----
 
 <br>
 
@@ -76,8 +72,6 @@
 - [Swift Language Guide - Nested Types](https://quick-face-098.notion.site/Nested-Types-c5cbd53c48dd4f4b916f1013bab3452f)
 - [Swift Language Guide - Type Casting](https://quick-face-098.notion.site/Type-Casting-7a2b2f67960a4ae4b24111907a704ad0)
 - [Swift Language Guide - Error Handling](https://quick-face-098.notion.site/Error-Handling-61708e145ddd449485b8ba188a59380f)
-
----
 
 <br>
 
@@ -109,8 +103,6 @@
 - [Swift Language Guide - Subscripts](https://quick-face-098.notion.site/Subscript-18c4f13883cb450191e5e54dbe703701)
 - [Swift Language Guide - Generics](https://quick-face-098.notion.site/Generics-165b68d318df4b8f88ac2bdaed84a1ae)
 
----
-
 <br>
 
 ## **5th Project: 만국박람회**
@@ -126,8 +118,6 @@
 |만국박람회 |[exposition-universelle/step1](https://github.com/derrickkim0109/ios-exposition-universelle/tree/features/step-01) |[Pull Request](https://github.com/yagom-academy/ios-exposition-universelle/pull/165) |[백곰](https://github.com/Baek-Gom-95) |[그린](https://github.com/GREENOVER)  |
 | |[exposition-universelle/step2](https://github.com/derrickkim0109/ios-exposition-universelle/tree/features/step-02) |[Pull Request](https://github.com/yagom-academy/ios-exposition-universelle/pull/177) |[백곰](https://github.com/Baek-Gom-95) |[그린](https://github.com/GREENOVER)|
 | |[exposition-universelle/step3](https://github.com/derrickkim0109/ios-exposition-universelle/tree/features/step-03) |[Pull Request](https://github.com/yagom-academy/ios-exposition-universelle/pull/191) |[백곰](https://github.com/Baek-Gom-95)|[그린](https://github.com/GREENOVER) |
-
----
 
 <br>
 
@@ -152,8 +142,6 @@
 - [Swift Language Guide - Concurrency Programming Guide](https://quick-face-098.notion.site/Concurrency-Programming-Guide-818f9c10cd234a53826972537aa17bdc)
 - [Swift Language Guide - Concurrency Programming](https://quick-face-098.notion.site/4169018554ca44f2a35bbabad00f806f)
 
----
-
 <br>
 
 ## **7th Project: 오픈마켓I & 오픈마켓II**
@@ -171,9 +159,6 @@
 |오픈마켓I |[open-market/step1](https://github.com/Jeon-Minsu/ios-open-market/tree/STEP03) |[Pull Request](https://github.com/yagom-academy/ios-open-market/pull/194) |[수꿍](https://github.com/Jeon-Minsu) |[제이슨](https://github.com/ehgud0670)|
 | |[open-market/step2](https://github.com/Jeon-Minsu/ios-open-market/tree/STEP04) |[Pull Request](https://github.com/yagom-academy/ios-open-market/pull/202) |[수꿍](https://github.com/Jeon-Minsu)|[제이슨](https://github.com/ehgud0670)|
 
-
----
-
 <br>
 
 ## **8th Project: 일기장**
@@ -189,8 +174,6 @@
 |일기장 |[diary/step1](https://github.com/derrickkim0109/ios-diary/tree/step-01) |[Pull Request](https://github.com/yagom-academy/ios-diary/pull/37) |[휴](https://github.com/Hugh-github) |[콘](https://github.com/protocorn93)  |
 | |[diary/step2](https://github.com/derrickkim0109/ios-diary/tree/step-02) |[Pull Request](https://github.com/yagom-academy/ios-diary/pull/47) |[휴](https://github.com/Hugh-github) |[콘](https://github.com/protocorn93)|
 | |[diary/step3](https://github.com/derrickkim0109/ios-diary/tree/step-03) |[Pull Request](https://github.com/yagom-academy/ios-diary/pull/51) |[휴](https://github.com/Hugh-github)  |[콘](https://github.com/protocorn93) |
-
----
 
 <br>
 
