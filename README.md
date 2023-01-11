@@ -8,6 +8,32 @@
 
 <br>
 
+## **리뷰어 활동**
+
+## **1st Project: 숫자야구 게임**
+
+### **기간**
+- 2022-08-15 ~ 2022-08-19
+
+|Mission |Repository |Pull Request | Reviewer |
+|:------:|:---------:|:-----------:|:-----------:|
+|숫자야구 게임 |[number-baseball/step1](https://github.com/wonbi92/ios-number-baseball/tree/Step01) |[Pull Request](https://github.com/yagom-academy/ios-number-baseball/pull/142)  |[데릭](https://github.com/derrickkim0109)  |
+| |[number-baseball/step2](https://github.com/wonbi92/ios-number-baseball/tree/Step02) |[Pull Request](https://github.com/yagom-academy/ios-number-baseball/pull/129) |[데릭](https://github.com/derrickkim0109)  |
+
+## **2st Project: 묵찌빠 게임**
+
+### **기간**
+- 2022-08-15 ~ 2022-08-19
+
+|Mission |Repository |Pull Request | Reviewer |
+|:------:|:---------:|:-----------:|:-----------:|
+|묵찌빠 게임 |[ios-rock-paper-scissors/step1](https://github.com/JaeKimdev/ios-rock-paper-scissors/tree/step1) |[Pull Request](https://github.com/yagom-academy/ios-rock-paper-scissors/pull/160)  |[데릭](https://github.com/derrickkim0109)  |
+| |[ios-rock-paper-scissors/step2](https://github.com/JaeKimdev/ios-rock-paper-scissors/tree/step2) |[Pull Request](https://github.com/yagom-academy/ios-rock-paper-scissors/pull/168) |[데릭](https://github.com/derrickkim0109)  |
+
+---
+
+## 캠퍼활동(본인)
+
 ## **1st Project: 숫자야구 게임**
 
 ### **기간**
@@ -20,6 +46,7 @@
 |:------:|:---------:|:-----------:|:-----------:|:-----------:|
 |숫자야구 게임 |[number-baseball/step1](https://github.com/derrickkim0109/ios-number-baseball/tree/feature/step01) |[Pull Request](https://github.com/yagom-academy/ios-number-baseball/pull/99) |[브래드](https://github.com/bradheo65) |[쿼카](https://github.com/Quokkaaa)  |
 | |[number-baseball/step2](https://github.com/derrickkim0109/ios-number-baseball/tree/feature/step02) |[Pull Request](https://github.com/yagom-academy/ios-number-baseball/pull/109) |[브래드](https://github.com/bradheo65) |[쿼카](https://github.com/Quokkaaa)  |
+
 
 ### **블로그 포스팅**
 
